@@ -1,0 +1,6 @@
+location="westeurope"
+site_domain="kooijman.se"
+shortenv="d"
+env="dev"
+cloudflare_email="ben.kooijman@protonmail.com"
+cloudflare_api_key="2f949e6d1b2db644eb545852b320be175ccee"
