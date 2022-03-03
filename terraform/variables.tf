@@ -28,3 +28,24 @@ variable cloudflare_api_key {
   type        = string
   description = "description"
 }
+
+variable state_store_resource_group {
+  type        = string
+  description = "description"
+}
+
+variable state_storage_account {
+  type        = string
+  description = "description"
+}
+
+variable state_contianer_name {
+  type        = string
+  description = "description"
+}
+
+variable state_blob_name {
+  type        = string
+  description = "description"
+}
+
