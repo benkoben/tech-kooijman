@@ -11,3 +11,10 @@ Packer just went GA
 
 Enterpise cloud solutions require private networking, which means private devops agents
 
+Topics to cover
+====
+
+* Architecture
+* Tooling
+* Permissions
+* Implementation
